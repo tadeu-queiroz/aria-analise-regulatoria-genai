@@ -96,8 +96,11 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 
 ## 🌿 Compromisso ESG (Hacking for Good)
 
-*   **Desmaterialização:** Digitalização completa do fluxo regulatório (Resíduo Zero).
-*   **Eficiência Energética:** Arquitetura **Serverless First**, minimizando o desperdício energético.
+Alinhada ao **Pilar de Sustentabilidade do AWS Well-Architected Framework**, a ARIA promove a eficiência máxima com o menor impacto ambiental:
+
+*   **Desmaterialização:** Digitalização completa do fluxo regulatório, eliminando milhares de páginas de papel (Resíduo Zero).
+*   **Eficiência Energética (Serverless First):** O uso de **AWS Lambda** e serviços sob demanda garante que o consumo de recursos computacionais ocorra apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono em comparação com servidores legados ligados 24/7.
+*   **Otimização de Recursos:** Arquitetura desenhada para maximizar a utilização de recursos compartilhados e reduzir o desperdício de infraestrutura ociosa.
 *     AWS Well-Architected suntentabilidade
 
 ---
