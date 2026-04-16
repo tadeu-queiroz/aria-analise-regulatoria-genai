@@ -67,7 +67,7 @@ https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquite
 
 O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
 
-./poc_validacao.pdf.jpeg
+/poc_validacao.pdf.jpeg
 
 <p align="center">
   <img src="./assets/slides/slide-13.png" alt="Controle da Infraestrutura e Validação Técnica" width="800">
