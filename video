@@ -1,1 +1,4 @@
-
+git rm -rf video
+git rm -rf "vídeo"
+git commit -m "Limpando estrutura para nova tentativa"
+git push origin principal
