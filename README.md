@@ -63,6 +63,16 @@ https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquite
 
 ---
 
+## 🧪 Validação e Prova de Conceito (PoC)
+
+O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
+
+<p align="center">
+  <img src="./assets/slides/slide-10.png" alt="Validação e PoC ARIA" width="800">
+</p>
+
+---
+
 ## 📊 Impacto e Métricas de Sucesso:
 
 <p align="center">
