@@ -46,7 +46,7 @@ Navegue pelas pastas para conferir os entregáveis técnicos:
 * 📂 [**Documentação**](./docs/): Slides da apresentação e PDF do case.
 
   
-https://github.com/SEU_USUARIO/aria-analise-regulatoria-genai/raw/principal/video/demonstracao.webm
+<video src="video/demo.webm" controls width="100%"></video>
 
 ## 🤝 Equipe (Grupo 4)
 * Fernanda Ferreira de Oliveira
