@@ -98,6 +98,7 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 
 *   **Desmaterialização:** Digitalização completa do fluxo regulatório (Resíduo Zero).
 *   **Eficiência Energética:** Arquitetura **Serverless First**, minimizando o desperdício energético.
+*   **AWS Well-Architected suntentabilidade
 
 ---
 
@@ -106,6 +107,7 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 *   **Fase 1:** Reforço de Segurança e Identidade com **Amazon Cognito**.
 *   **Fase 2:** Otimização de Performance via **Cache Semântico** (DynamoDB).
 *   **Melhoria Contínua:** Benchmarking de precisão vs. custo por token.
+
 
 ---
 
