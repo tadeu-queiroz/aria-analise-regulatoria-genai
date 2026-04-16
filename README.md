@@ -138,6 +138,7 @@ Alinhada ao **pilar de Sustentabilidade do AWS Well-Architected Framework**, a A
 ## 🏢 Realização e Apoio
 
 Projeto desenvolvido para o **Hackathon Talento Tech 3.0** Escola da nuvem
+
 apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
 **empresas que apoiam esse projeto:**
