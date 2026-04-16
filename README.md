@@ -89,6 +89,10 @@ Demonstramos maturidade técnica ao planejar a viabilidade econômica do projeto
 
 ## 🤝 Equipe (Grupo 4)
 
+<p align="center">
+  <img src="./assets/foto_equipe.jpg" alt="Equipe ARIA - Hackathon 2026" width="600">
+</p>
+
 *   **Fernanda Ferreira de Oliveira**
 *   **Gustavo Dias Gomes**
 *   **Melina Nascimento França**
