@@ -100,7 +100,7 @@ O sistema foi validado com documentos reais, demonstrando a capacidade de extrai
 
 ## 🌿 Compromisso ESG (Hacking for Good)
 
-Alinhada ao **Pilar de Sustentabilidade do AWS Well-Architected Framework**, a ARIA promove a eficiência máxima com o menor impacto ambiental:
+Alinhada ao **pilar de Sustentabilidade do AWS Well-Architected Framework**, a ARIA promove a eficiência máxima com o menor impacto ambiental:
 
 *   **Desmaterialização:** Digitalização completa do fluxo regulatório, eliminando milhares de páginas de papel (Resíduo Zero).
 *   **Eficiência Energética (Serverless First):** O uso de **AWS Lambda** e serviços sob demanda garante que o consumo de recursos computacionais ocorra apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono em comparação com servidores legados ligados 24/7.
