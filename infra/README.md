@@ -1,6 +1,6 @@
 # ☁️ Infraestrutura como Código & Segurança (Cloud Foundation) 
 
-Este diretório detalha os componentes de infraestrutura da ARIA, desenhados para serem resilientes, seguros e escaláveis seguindo o **AWS Well-Architected Framework**.
+Este diretório detalha os componentes de infraestrutura do projeto ARIA, desenhados para serem resilientes, seguros e escaláveis seguindo o **AWS Well-Architected Framework**.
 
 ## 🛡️ Camada de Segurança e Governança
 Para um projeto de Inteligência Regulatória, a integridade dos dados é inegociável:
