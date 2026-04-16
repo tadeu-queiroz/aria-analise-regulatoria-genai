@@ -41,8 +41,11 @@ https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquite
 
 🧪 Validação e Prova de Conceito (PoC)
 
+🧪 Validação e Prova de Conceito (PoC)
+
 ![poc_validacao](https://raw.githubusercontent.com/tadeu-queiroz/aria-analise-regulatoria-genai/main/poc_validacao.pdf.jpeg)
 
+O sistema foi validado com documentos reais...
 O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
 
 Controle da Infraestrutura e Validação Técnica
