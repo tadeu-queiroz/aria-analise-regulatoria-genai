@@ -11,7 +11,7 @@
   <img src="./assets/slides/slide-03.png" alt="Visão Geral da Solução" width="800">
 </p>
 
-A **ARIA** (anteriormente conheida como *PharmaGen Insights*) é uma plataforma de **Inteligência Regulatória** de última geração. Ela automatiza o ciclo completo de documentos técnicos — desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas — transformando dados estáticos em um **"cérebro corporativo"** vivo e consultável.
+A ARIA, anteriormente conhecida como PharmaGen Insights, é uma plataforma de Inteligência Regulatória muito avançada. Ela ajuda a automatizar todo o processo de documentos técnicos. Isso inclui desde a leitura e interpretação dos documentos até o acompanhamento constante de regras e publicações científicas. Com isso, a ARIA transforma informações que antes estavam paradas em uma espécie de “cérebro” da empresa, que está sempre atualizado e pode ser consultado quando necessário.
 
 Nascida no **Hackathon Talento Tech 3.0** Escola da Nuvem 2026, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
