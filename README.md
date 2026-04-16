@@ -46,8 +46,8 @@ Navegue pelas pastas para conferir os entregáveis técnicos:
 * 📂 [**Documentação**](./docs/): Slides da apresentação e PDF do case.
 
   
-## 🎥 Demonstração Técnica
-> **[▶️ ASSISTIR VÍDEO DE DEMONSTRAÇÃO](./video/arquitetura.webm.webm)**
+[## 🎥 Demonstração Técnica
+> **[▶️ ASSISTIR VÍDEO DE DEMONSTRAÇÃO](./video/arquitetura.webm.webm)**](https://github.com/SEU_USUARIO/aria-analise-regulatoria-genai/blob/main/video/demonstracao.webm)
 
 ## 🤝 Equipe (Grupo 4)
 * Fernanda Ferreira de Oliveira
