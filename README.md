@@ -1,4 +1,4 @@
-# ARIA | Inteligência Regulatória com IA Generativa ⚖️ 🚀
+# ARIA | Inteligência Regulatória com IA Generativa 🚀
 **Solução Vencedora: "Extração de Conhecimento em Dados Complexos"**
 
 🥈 **2º LUGAR GERAL** no Hackathon Talento Tech 3.0 - Escola da Nuvem - Hacking for Good 2026.
