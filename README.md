@@ -6,31 +6,36 @@
 ---
 
 ## 🌟 Visão Geral do Projeto
-*(Veja mais no **Slide 1** e **Slide 3**)*
 
-A **ARIA** é uma plataforma de **Inteligência Regulatória** de última geração. Ela automatiza o ciclo completo de documentos técnicos — desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas — transformando dados estáticos em um **"cérebro corporativo"** vivo e consultável.
+<p align="center">
+  <img src="./assets/slides/slide-03.png" alt="Visão Geral da Solução" width="800">
+</p>
+
+A **ARIA** (anteriormente concebida como *PharmaGen Insights*) é uma plataforma de **Inteligência Regulatória** de última geração. Ela automatiza o ciclo completo de documentos técnicos — desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas — transformando dados estáticos em um **"cérebro corporativo"** vivo e consultável.
 
 Nascida no **Hackathon Talento Tech 3.0**, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
 ### 👤 O Desafio do Setor (Persona)
-*(Veja mais no **Slide 2**)*
 > "A indústria farmacêutica lida com um volume massivo de documentos complexos. A falta de automação gera lentidão na tomada de decisão e riscos reais de multas e sanções por falhas na interpretação de normas."
 
 ### 💡 Transformação na Prática
-*(Veja mais no **Slide 2**)*
+
+<p align="center">
+  <img src="./assets/slides/slide-02.png" alt="Endereçamento X Problema" width="800">
+</p>
+
 *   **Cenário Tradicional:** Analistas dedicam ~15h semanais à leitura manual de atualizações da ANVISA/FDA para evitar sanções.
 *   **Cenário com ARIA:** O sistema realiza a busca ativa e o processamento autônomo. O analista recebe um **Relatório Estratégico** com impactos diretos, permitindo foco total em inovação e segurança.
 
 ---
 
 ## 🚀 Diferenciais Estratégicos e Técnicos
-*(Veja mais no **Slide 3**)*
 
 A ARIA utiliza um pipeline inteligente que garante **rastreabilidade total** e **explicabilidade**:
 
 1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas estritamente nos documentos carregados, com citação direta de **fonte, página e parágrafo**, essencial para auditorias.
 2.  **Ingestão Híbrida:** 
-    *   **Reativa (Manual):** Upload de PDFs (estudos, dossiês) via portal. *(Veja **Slide 10**)*
+    *   **Reativa (Manual):** Upload de PDFs (estudos, dossiês) via portal.
     *   **Proativa (Autônoma):** Busca ativa via API/Crawler em órgãos reguladores (Amazon EventBridge).
 3.  **Extração Especializada:** Integração de **Amazon Textract** com **Comprehend Medical** para identificar entidades clínicas (dosagens, princípios ativos) e relações médicas complexas.
 4.  **Human-in-the-Loop:** Fluxos de aprovação integrados para que informações críticas sejam validadas por especialistas antes da indexação final.
@@ -38,7 +43,10 @@ A ARIA utiliza um pipeline inteligente que garante **rastreabilidade total** e *
 ---
 
 ## 🏗️ Arquitetura Cloud Native (AWS)
-*(Veja mais no **Slide 5**)*
+
+<p align="center">
+  <img src="./assets/slides/slide-05.png" alt="Arquitetura da Solução" width="800">
+</p>
 
 Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integridade regulatória:
 
@@ -47,14 +55,13 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 *   **Núcleo de IA:** **Amazon Bedrock** (Claude 3 Haiku) para geração contextual, integrado ao **Amazon OpenSearch Serverless** para busca semântica via Embeddings.
 *   **Segurança e Governança:** Criptografia via **KMS**, trilha de auditoria com **CloudTrail** e conformidade com **LGPD/HIPAA**.
 
-<p align="center">
-  <img src="./assets/Arquitetura%20-%20ARIA.png" alt="Arquitetura Técnica ARIA" width="800">
-</p>
-
 ---
 
 ## 📺 Demonstração da Solução
-*(Veja mais no **Slide 6**)*
+
+<p align="center">
+  <img src="./assets/slides/slide-06.png" alt="Gravação da Demonstração" width="800">
+</p>
 
 Veja a ARIA processando documentos e gerando insights em tempo real:
 
@@ -63,7 +70,10 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 📊 Métricas de Valor e Impacto
-*(Veja mais no **Slide 4**)*
+
+<p align="center">
+  <img src="./assets/slides/slide-04.png" alt="Principais Benefícios e Medidas de Sucesso" width="800">
+</p>
 
 *   **Agilidade:** Redução do tempo de análise de semanas para segundos.
 *   **Conformidade:** Monitoramento 24/7, mitigando riscos de multas e sanções.
@@ -73,7 +83,10 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 💰 FinOps e Viabilidade Econômica
-*(Veja mais no **Slide 7**)*
+
+<p align="center">
+  <img src="./assets/slides/slide-07.png" alt="Próximos Passos e FinOps" width="800">
+</p>
 
 *   **Investimento Mensal (PoC):** Estimado em $305,18 via AWS Pricing Calculator.
 *   **Estratégia de Escala:** Proposta de substituição do OpenSearch por **RDS com pgvector**, reduzindo o custo fixo para aproximadamente **$57,00/mês**.
@@ -82,7 +95,6 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 🌿 Compromisso ESG (Hacking for Good)
-*(Veja mais no **Slide 4**)*
 
 *   **Desmaterialização:** Digitalização completa do fluxo regulatório (Resíduo Zero).
 *   **Eficiência Energética:** Arquitetura **Serverless First**, minimizando o desperdício energético.
@@ -90,7 +102,6 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 🆙 Evolução e Roadmap
-*(Veja mais no **Slide 7**)*
 
 *   **Fase 1:** Reforço de Segurança e Identidade com **Amazon Cognito**.
 *   **Fase 2:** Otimização de Performance via **Cache Semântico** (DynamoDB).
@@ -104,7 +115,6 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 🤝 Time de Desenvolvimento (Grupo 4)
-*(Veja mais no **Slide 1**)*
 
 <p align="center">
   <img src="./assets/foto_equipe.jpg" alt="Equipe Vencedora ARIA" width="600">
@@ -119,7 +129,8 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 ---
 
 ## 🏢 Realização e Apoio
-Este projeto foi fruto do **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
+
+Projeto desenvolvido para o **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
 **Parceiros Estratégicos:**
 Escola da Nuvem, AWS, TD SYNNEX, Dedalus, BRLink, Enkel, Darede.
