@@ -44,7 +44,12 @@ Demonstramos maturidade técnica ao planejar a viabilidade econômica do projeto
 Navegue pelas pastas para conferir os entregáveis técnicos:
 * 📂 [**Código Frontend**](./src/): Protótipo da interface de usuário.
 * 📂 [**Documentação**](./docs/): Slides da apresentação e PDF do case.
-* 📂 [**Demonstração**](./video/): Vídeo funcional da plataforma.
+## 🎥 Demonstração Prática
+O vídeo de demonstração técnica da ARIA está disponível no link abaixo. 
+
+> [!TIP]
+> **[▶️ Clique aqui para assistir ao vídeo da demonstração](./video/arquitetura.webm.webm)**
+> *(Caso o vídeo não carregue direto no navegador, você pode baixá-lo para assistir localmente).*
 * 📂 [**Infraestrutura**](./infra/): Detalhes sobre segurança e serviços AWS.
 
 ---
