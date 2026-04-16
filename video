@@ -1,4 +1,3 @@
-git rm -rf video
-git rm -rf "vídeo"
-git commit -m "Limpando estrutura para nova tentativa"
+git add video/demo.webm
+git commit -m "Adicionando video com nome limpo"
 git push origin principal
