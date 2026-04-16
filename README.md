@@ -1,7 +1,7 @@
 # ARIA | Inteligência Regulatória com IA Generativa 🚀
-   🥈 **2º LUGAR GERAL** no Hackathon Talento Tech 3.0 - Escola da Nuvem - Hacking for Good 2026.
+🥈 **2º LUGAR GERAL** no Hackathon Talento Tech 3.0 - Escola da Nuvem - Hacking for Good 2026.
 
-**Solução: "Extração de Conhecimento em Dados Complexos"**
+  **Solução: "Extração de Conhecimento em Dados Complexos"**
 
 ---
 
