@@ -98,7 +98,7 @@ Veja a ARIA processando documentos e gerando insights em tempo real:
 
 *   **Desmaterialização:** Digitalização completa do fluxo regulatório (Resíduo Zero).
 *   **Eficiência Energética:** Arquitetura **Serverless First**, minimizando o desperdício energético.
-*   **AWS Well-Architected suntentabilidade
+*     AWS Well-Architected suntentabilidade
 
 ---
 
