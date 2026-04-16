@@ -59,13 +59,11 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 
 ## 📺 Demonstração da Solução
 
+Veja a ARIA processando documentos e gerando insights em tempo real através do nosso pipeline inteligente:
+
 <p align="center">
-  <img src="./assets/slides/slide-06.png" alt="Gravação da Demonstração" width="800">
+  <video src="arquitetura_github.mp4" controls width="100%"></video>
 </p>
-
-Veja a ARIA processando documentos e gerando insights em tempo real:
-
-<video src="arquitetura_github.mp4" controls width="100%"></video>
 
 ---
 
