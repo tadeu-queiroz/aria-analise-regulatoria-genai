@@ -16,7 +16,7 @@ A **ARIA** (anteriormente concebida como *PharmaGen Insights*) é uma plataforma
 Nascida no **Hackathon Talento Tech 3.0** Escola da Nuvem 2026, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
 ### 👤 O Desafio do Setor (Persona)
-> "A indústria farmacêutica lida com um volume massivo de documentos complexos. A falta de automação gera lentidão na tomada de decisão e riscos reais de multas e sanções por falhas na interpretação de normas."
+"A indústria farmacêutica trabalha com uma grande quantidade de documentos complexos. Sem automação, as decisões ficam mais lentas e há riscos de multas e sanções por erros na interpretação das normas."
 
 ### 💡 Transformação na Prática
 
@@ -31,7 +31,7 @@ Nascida no **Hackathon Talento Tech 3.0** Escola da Nuvem 2026, a solução reso
 
 ## 🚀 Diferenciais Estratégicos e Técnicos
 
-A ARIA utiliza um pipeline inteligente que garante **rastreabilidade total** e **explicabilidade**:
+A ARIA utiliza um pipeline inteligente que garante **rastreabilidade total** e **escalabilidade**:
 
 1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas estritamente nos documentos carregados, com citação direta de **fonte, página e parágrafo**, essencial para auditorias.
 2.  **Ingestão Híbrida:** 
@@ -140,4 +140,11 @@ Alinhada ao **Pilar de Sustentabilidade do AWS Well-Architected Framework**, a A
 Projeto desenvolvido para o **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
 **Parceiros Estratégicos:**
-Escola da Nuvem, AWS, TD SYNNEX, Dedalus, BRLink, Enkel, Darede.
+
+Escola da Nuvem
+AWS
+TD SYNNEX
+Dedalus
+BRLink
+Enkel
+Darede
