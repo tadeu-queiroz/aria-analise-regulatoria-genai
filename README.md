@@ -44,8 +44,14 @@ Demonstramos maturidade técnica ao planejar a viabilidade econômica do projeto
 Navegue pelas pastas para conferir os entregáveis técnicos:
 * 📂 [**Código Frontend**](./src/): Protótipo da interface de usuário.
 * 📂 [**Documentação**](./docs/): Slides da apresentação e PDF do case.
-## 🎥 Demonstração Prática
-O vídeo de demonstração técnica da ARIA está disponível no link abaixo. 
+
+  
+## 🎥 Demonstração Técnica
+Para visualizar o funcionamento da ARIA (fluxo RAG + Bedrock), acesse o link abaixo:
+
+> **[▶️ CLIQUE AQUI PARA ASSISTIR AO VÍDEO DA DEMONSTRAÇÃO](./video/arquitetura.webm.webm)**
+> 
+> *Nota: Como o arquivo é grande, o navegador fará o carregamento direto do player ou oferecerá o download para visualização local.* 
 
 > [!TIP]
 > **[▶️ Clique aqui para assistir ao vídeo da demonstração](./video/arquitetura.webm.webm)**
