@@ -7,37 +7,40 @@
 
 ## 🌟 Visão Geral do Projeto
 
-A **ARIA** é uma plataforma inovadora de **Inteligência Regulatória** que utiliza o poder da IA Generativa para automatizar o ciclo completo de documentos técnicos: desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas.
+A **ARIA** (anteriormente concebida como *PharmaGen Insights*) é uma plataforma de **Inteligência Regulatória** de última geração. Ela automatiza o ciclo completo de documentos técnicos — desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas — transformando dados estáticos em um **"cérebro corporativo"** vivo e consultável.
 
-Nascida no **Hackathon Talento Tech 3.0**, a ARIA converte repositórios estáticos (PDFs, editais e dossiês clínicos) em um **Ecossistema de Conhecimento Ativo**, permitindo consultas em linguagem natural com total embasamento em evidências reais.
+Nascida no **Hackathon Talento Tech 3.0**, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
 ### 👤 O Desafio do Setor (Persona)
-> "A indústria farmacêutica enfrenta um gargalo crítico: a gestão manual de um volume massivo de documentos técnicos. Isso gera riscos de conformidade, atrasos estratégicos e uma carga operacional insustentável para os analistas."
+> "A indústria farmacêutica lida com um volume massivo de documentos complexos. A falta de automação gera lentidão na tomada de decisão e riscos reais de multas e sanções por falhas na interpretação de normas."
 
 ### 💡 Transformação na Prática
-*   **Cenário Tradicional:** Um analista dedica cerca de **15 horas semanais** à leitura manual de atualizações da ANVISA e novos estudos para evitar sanções.
-*   **Cenário com ARIA:** O sistema monitora fontes oficiais de forma autônoma. Às 06:00, a ARIA processa as novidades; às 08:00, o analista recebe um **Relatório Estratégico** com os impactos diretos nos produtos da companhia, eliminando o trabalho braçal.
+*   **Cenário Tradicional:** Analistas dedicam ~15h semanais à leitura manual de atualizações da ANVISA/FDA para evitar sanções.
+*   **Cenário com ARIA:** O sistema realiza a busca ativa e o processamento autônomo. O analista recebe um **Relatório Estratégico** com impactos diretos, permitindo foco total em inovação e segurança.
 
 ---
 
-## 🚀 Diferenciais Estratégicos
+## 🚀 Diferenciais Estratégicos e Técnicos
 
-A ARIA se destaca por ir além de uma simples ferramenta de busca, integrando:
+A ARIA utiliza um pipeline inteligente que garante **rastreabilidade total** e **explicabilidade**:
 
-1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas exclusivamente nos documentos da empresa, com citação precisa de fonte (página e parágrafo), garantindo segurança e zero alucinação.
-2.  **Monitoramento Proativo:** Integração com **Amazon EventBridge** para rastrear e capturar atualizações de órgãos como ANVISA e FDA em tempo real.
-3.  **Processamento Especializado:** Uso combinado de **Amazon Textract** e **Comprehend Medical** para extração inteligente de dosagens, substâncias e correlações clínicas.
+1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas estritamente nos documentos carregados, com citação direta de **fonte, página e parágrafo**, essencial para auditorias.
+2.  **Ingestão Híbrida:** 
+    *   **Reativa (Manual):** Upload de PDFs (estudos, dossiês) via portal.
+    *   **Proativa (Autônoma):** Busca ativa via API/Crawler em órgãos reguladores (Amazon EventBridge).
+3.  **Extração Especializada:** Integração de **Amazon Textract** com **Comprehend Medical** para identificar entidades clínicas (dosagens, princípios ativos) e relações médicas complexas.
+4.  **Human-in-the-Loop:** Fluxos de aprovação integrados para que informações críticas sejam validadas por especialistas antes da indexação final.
 
 ---
 
 ## 🏗️ Arquitetura Cloud Native (AWS)
 
-Desenhada sob os pilares do **AWS Well-Architected Framework**, nossa arquitetura garante alta disponibilidade e escalabilidade:
+Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integridade regulatória:
 
-*   **Ingestão e Armazenamento:** Fluxo via API Gateway e S3, com políticas de retenção e integridade regulatória (Object Lock).
-*   **Orquestração de Processos:** Fluxos gerenciados pelo **AWS Step Functions**, com tratamento de erros via **Amazon SQS**.
-*   **Núcleo de Inteligência:** **Amazon Bedrock** (Claude 3 Haiku) para processamento ágil, integrado ao **Amazon OpenSearch Serverless** para indexação vetorial.
-*   **Segurança e Governança:** Proteção de borda com **AWS WAF** e criptografia de ponta a ponta.
+*   **Armazenamento Inteligente:** Camadas de dados no **Amazon S3** (Raw, Processed, Archive) com políticas de Lifecycle, Versionamento e **Object Lock**.
+*   **Orquestração de Fluxo:** Gerenciada pelo **AWS Step Functions**, tratando ramificações críticas e erros via **Amazon SQS**.
+*   **Núcleo de IA:** **Amazon Bedrock** (Claude 3 Haiku) para geração contextual, integrado ao **Amazon OpenSearch Serverless** para busca semântica via Embeddings.
+*   **Segurança e Governança:** Criptografia via **KMS**, trilha de auditoria com **CloudTrail** e conformidade com **LGPD/HIPAA**.
 
 <p align="center">
   <img src="./assets/Arquitetura%20-%20ARIA.png" alt="Arquitetura Técnica ARIA" width="800">
@@ -47,7 +50,7 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, nossa arquitetur
 
 ## 📺 Demonstração da Solução
 
-Veja como a ARIA simplifica a análise de documentos complexos:
+Veja a ARIA processando documentos e gerando insights em tempo real:
 
 <video src="arquitetura_github.mp4" controls width="100%"></video>
 
@@ -55,41 +58,33 @@ Veja como a ARIA simplifica a análise de documentos complexos:
 
 ## 📊 Métricas de Valor e Impacto
 
-*   **Agilidade:** Redução drástica no tempo de triagem (de semanas para segundos).
-*   **Conformidade:** Monitoramento ininterrupto (24/7), mitigando riscos regulatórios.
-*   **Eficiência:** Redução de custos operacionais ao automatizar tarefas repetitivas de alto volume.
-*   **Precisão:** Insights padronizados e totalmente rastreáveis.
+*   **Agilidade:** Redução do tempo de análise de semanas para segundos.
+*   **Conformidade:** Monitoramento 24/7, mitigando riscos de multas e sanções.
+*   **Eficiência:** IA processando o volume braçal, liberando talentos para tarefas analíticas.
+*   **Time-to-Market:** Aceleração na resposta a mudanças regulatórias e novos estudos.
 
 ---
 
-## 🧪 Validação Técnica (PoC)
+## 💰 FinOps e Viabilidade Econômica
 
-Nossa Prova de Conceito foi testada com documentação real do setor, comprovando a eficácia na extração de insights estruturados a partir de textos densos e técnicos.
-
----
-
-## 💰 FinOps e Sustentabilidade Financeira
-
-Planejamos a viabilidade do projeto com foco em governança de custos:
 *   **Investimento Mensal (PoC):** Estimado em $305,18 via AWS Pricing Calculator.
 *   **Estratégia de Escala:** Proposta de substituição do OpenSearch por **RDS com pgvector**, reduzindo o custo fixo para aproximadamente **$57,00/mês**.
-*   **Controle de Gastos:** Implementação de **AWS Budgets** com alertas preditivos em 60% do teto orçamentário.
+*   **Governança:** Monitoramento via **AWS Budgets** com alertas preditivos em 60%.
 
 ---
 
 ## 🌿 Compromisso ESG (Hacking for Good)
 
-A ARIA contribui diretamente para metas de sustentabilidade:
-*   **Desmaterialização:** Digitalização completa do fluxo regulatório, poupando milhares de impressões.
-*   **Eficiência Energética:** Arquitetura **Serverless First** (AWS Lambda), garantindo consumo de recursos apenas durante o processamento ativo.
+*   **Desmaterialização:** Digitalização completa do fluxo regulatório (Resíduo Zero).
+*   **Eficiência Energética:** Arquitetura **Serverless First**, minimizando o desperdício energético.
 
 ---
 
 ## 🆙 Evolução e Roadmap
 
 *   **Fase 1:** Reforço de Segurança e Identidade com **Amazon Cognito**.
-*   **Fase 2:** Otimização de Performance e Custo via **Cache Semântico** (DynamoDB).
-*   **Melhoria Contínua:** Benchmarking de precisão vs. custo por token para refinamento do modelo.
+*   **Fase 2:** Otimização de Performance via **Cache Semântico** (DynamoDB).
+*   **Melhoria Contínua:** Benchmarking de precisão vs. custo por token.
 
 ---
 
