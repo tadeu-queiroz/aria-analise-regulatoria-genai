@@ -47,18 +47,7 @@ Navegue pelas pastas para conferir os entregáveis técnicos:
 
   
 ## 🎥 Demonstração Técnica
-Para visualizar o funcionamento da ARIA (fluxo RAG + Bedrock), acesse o link abaixo:
-
-> **[▶️ CLIQUE AQUI PARA ASSISTIR AO VÍDEO DA DEMONSTRAÇÃO](./video/arquitetura.webm.webm)**
-> 
-> *Nota: Como o arquivo é grande, o navegador fará o carregamento direto do player ou oferecerá o download para visualização local.* 
-
-> [!TIP]
-> **[▶️ Clique aqui para assistir ao vídeo da demonstração](./video/arquitetura.webm.webm)**
-> *(Caso o vídeo não carregue direto no navegador, você pode baixá-lo para assistir localmente).*
-* 📂 [**Infraestrutura**](./infra/): Detalhes sobre segurança e serviços AWS.
-
----
+> **[▶️ ASSISTIR VÍDEO DE DEMONSTRAÇÃO](./video/arquitetura.webm.webm)**
 
 ## 🤝 Equipe (Grupo 4)
 * Fernanda Ferreira de Oliveira
