@@ -101,7 +101,6 @@ Alinhada ao **Pilar de Sustentabilidade do AWS Well-Architected Framework**, a A
 *   **Desmaterialização:** Digitalização completa do fluxo regulatório, eliminando milhares de páginas de papel (Resíduo Zero).
 *   **Eficiência Energética (Serverless First):** O uso de **AWS Lambda** e serviços sob demanda garante que o consumo de recursos computacionais ocorra apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono em comparação com servidores legados ligados 24/7.
 *   **Otimização de Recursos:** Arquitetura desenhada para maximizar a utilização de recursos compartilhados e reduzir o desperdício de infraestrutura ociosa.
-  
 
 ---
 
@@ -110,7 +109,6 @@ Alinhada ao **Pilar de Sustentabilidade do AWS Well-Architected Framework**, a A
 *   **Fase 1:** Reforço de Segurança e Identidade com **Amazon Cognito**.
 *   **Fase 2:** Otimização de Performance via **Cache Semântico** (DynamoDB).
 *   **Melhoria Contínua:** Benchmarking de precisão vs. custo por token.
-
 
 ---
 
