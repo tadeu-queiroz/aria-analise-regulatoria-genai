@@ -54,6 +54,14 @@ Confira a ARIA em ação processando documentos e gerando insights:
 
 ---
 
+## 📄 Apresentação do Projeto
+
+Você pode conferir os slides detalhados da nossa apresentação no Hackathon:
+
+👉 [**Baixar Apresentação (PDF)**](./docs/Apresentação%20Hackathon%202026.pdf)
+
+---
+
 ## 💰 FinOps e Viabilidade Econômica
 
 Demonstramos maturidade técnica ao planejar a viabilidade econômica do projeto:
