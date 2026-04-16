@@ -61,9 +61,7 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 
 Veja a ARIA processando documentos e gerando insights em tempo real através do nosso pipeline inteligente:
 
-<p align="center">
-  <video src="arquitetura_github.mp4" controls width="100%"></video>
-</p>
+https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4
 
 ---
 
