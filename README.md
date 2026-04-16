@@ -143,9 +143,17 @@ apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 **empresas que apoiam esse projeto:**
 
 Escola da Nuvem
+
 AWS
+
 TD SYNNEX
+
 Dedalus
+
 BRLink
+
 Enkel
+
 Darede
+
+DreamSquad
