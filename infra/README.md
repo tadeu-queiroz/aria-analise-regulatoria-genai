@@ -1,4 +1,4 @@
-# Infraestrutura como Código & Segurança (Cloud Foundation) ☁️
+# ☁️ Infraestrutura como Código & Segurança (Cloud Foundation) ☁️
 
 Este diretório detalha os componentes de infraestrutura da ARIA, desenhados para serem resilientes, seguros e escaláveis seguindo o **AWS Well-Architected Framework**.
 
