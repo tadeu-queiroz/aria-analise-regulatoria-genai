@@ -57,15 +57,13 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 
 ---
 
-## 📺 Demonstração da Solução
-
-Veja a ARIA processando documentos e gerando insights em tempo real através do nosso pipeline inteligente:
+## 📺 Vídeo Demonstração
 
 https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4
 
 ---
 
-## 📊 Métricas de Valor e Impacto
+## 📊 Impacto e Métricas de Sucesso:
 
 <p align="center">
   <img src="./assets/slides/slide-04.png" alt="Principais Benefícios e Medidas de Sucesso" width="800">
