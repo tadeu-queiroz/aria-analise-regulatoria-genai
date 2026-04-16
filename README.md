@@ -1,99 +1,107 @@
-# ARIA: Análise Regulatória com Inteligência Artificial
-**Vencedor do Case: "GenAI para extrair conhecimento de dados complexos"**
+# ARIA | Inteligência Regulatória com IA Generativa ⚖️ 🚀
+**Solução Vencedora: "Extração de Conhecimento em Dados Complexos"**
 
-🥈 **VENCEDOR DO SEGUNDO LUGAR** no Hackathon Talento Tech 3.0 Hacking for Good (2026).
-
----
-
-## 🌟 Visão Geral
-
-A **ARIA (Análise Regulatória com Inteligência Artificial)** é uma plataforma de Inteligência Regulatória baseada em IA Generativa que automatiza a ingestão, interpretação e monitoramento contínuo de documentos científicos e normas técnicas.
-
-Desenvolvida durante o **Hackathon Talento Tech 3.0**, o projeto transforma bases de dados estáticas (PDFs de editais, dossiês e ensaios clínicos) em um **"cérebro corporativo"** vivo, consultável em linguagem natural e baseado em evidências.
-
-### 👤 Persona
-> "Hoje, a indústria farmacêutica precisa de automação na gestão de informações técnicas e regulatórias quando o alto volume de documentos complexos gera riscos de inconformidade e lentidão na tomada de decisão."
-
-### 💡 Exemplo Prático
-*   **Antes:** Renata gasta 15 horas por semana lendo manualmente atualizações da Anvisa e novos ensaios clínicos de outras fontes para garantir que a empresa não sofra sanções.
-*   **Depois (com ARIA):** Todos os dias às 6 da manhã a ARIA faz busca por novos documentos em sites oficiais. Quando Renata chega ao trabalho às 8 da manhã, recebe um alerta com um resumo executivo pronto, com o que mudou e o impacto nos produtos da empresa.
+🥈 **2º LUGAR GERAL** no Hackathon Talento Tech 3.0 - Hacking for Good (2026).
 
 ---
 
-## 🚀 Diferenciais da Solução
-Diferente de ferramentas de busca comuns, a ARIA utiliza:
+## 🌟 Visão Geral do Projeto
 
-1.  **RAG (Retrieval-Augmented Generation):** Garante que as respostas da IA sejam baseadas estritamente nos documentos carregados, eliminando "alucinações" e fornecendo citações de fonte (página/parágrafo).
-2.  **Ingestão Proativa:** O sistema não é passivo. Ele utiliza o **Amazon EventBridge** para monitorar e baixar atualizações de órgãos reguladores (como ANVISA/FDA) de forma autônoma.
-3.  **Extração Especializada:** Integração do **Amazon Textract** com **Comprehend Medical** para identificar dosagens, princípios ativos e relações clínicas complexas.
+A **ARIA** é uma plataforma inovadora de **Inteligência Regulatória** que utiliza o poder da IA Generativa para automatizar o ciclo completo de documentos técnicos: desde a ingestão e interpretação até o monitoramento contínuo de normas e publicações científicas.
+
+Nascida no **Hackathon Talento Tech 3.0**, a ARIA converte repositórios estáticos (PDFs, editais e dossiês clínicos) em um **Ecossistema de Conhecimento Ativo**, permitindo consultas em linguagem natural com total embasamento em evidências reais.
+
+### 👤 O Desafio do Setor (Persona)
+> "A indústria farmacêutica enfrenta um gargalo crítico: a gestão manual de um volume massivo de documentos técnicos. Isso gera riscos de conformidade, atrasos estratégicos e uma carga operacional insustentável para os analistas."
+
+### 💡 Transformação na Prática
+*   **Cenário Tradicional:** Um analista dedica cerca de **15 horas semanais** à leitura manual de atualizações da ANVISA e novos estudos para evitar sanções.
+*   **Cenário com ARIA:** O sistema monitora fontes oficiais de forma autônoma. Às 06:00, a ARIA processa as novidades; às 08:00, o analista recebe um **Relatório Estratégico** com os impactos diretos nos produtos da companhia, eliminando o trabalho braçal.
 
 ---
 
-## 🏗️ Arquitetura Técnica (AWS Cloud Native)
-A solução foi desenhada sob o **AWS Well-Architected Framework**, garantindo escalabilidade e baixo custo:
+## 🚀 Diferenciais Estratégicos
 
-*   **Camada de Ingestão:** AWS API Gateway + S3 (com políticas de Lifecycle e Object Lock para integridade regulatória).
-*   **Orquestração:** **AWS Step Functions** gerencia o fluxo de processamento, garantindo que falhas sejam tratadas via filas de mensagens (**Amazon SQS**).
-*   **Cérebro de IA:** **Amazon Bedrock** (utilizando modelos como Claude 3 Haiku para velocidade e custo) integrado ao **Amazon OpenSearch Serverless** para busca vetorial.
-*   **Segurança:** Implementação de **AWS WAF** para proteção de borda e criptografia de dados em repouso e em trânsito.
-*   **Monitoramento:** 24/7.
+A ARIA se destaca por ir além de uma simples ferramenta de busca, integrando:
+
+1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas exclusivamente nos documentos da empresa, com citação precisa de fonte (página e parágrafo), garantindo segurança e zero alucinação.
+2.  **Monitoramento Proativo:** Integração com **Amazon EventBridge** para rastrear e capturar atualizações de órgãos como ANVISA e FDA em tempo real.
+3.  **Processamento Especializado:** Uso combinado de **Amazon Textract** e **Comprehend Medical** para extração inteligente de dosagens, substâncias e correlações clínicas.
+
+---
+
+## 🏗️ Arquitetura Cloud Native (AWS)
+
+Desenhada sob os pilares do **AWS Well-Architected Framework**, nossa arquitetura garante alta disponibilidade e escalabilidade:
+
+*   **Ingestão e Armazenamento:** Fluxo via API Gateway e S3, com políticas de retenção e integridade regulatória (Object Lock).
+*   **Orquestração de Processos:** Fluxos gerenciados pelo **AWS Step Functions**, com tratamento de erros via **Amazon SQS**.
+*   **Núcleo de Inteligência:** **Amazon Bedrock** (Claude 3 Haiku) para processamento ágil, integrado ao **Amazon OpenSearch Serverless** para indexação vetorial.
+*   **Segurança e Governança:** Proteção de borda com **AWS WAF** e criptografia de ponta a ponta.
 
 <p align="center">
-  <img src="./assets/Arquitetura%20-%20ARIA.png" alt="Arquitetura ARIA" width="800">
+  <img src="./assets/Arquitetura%20-%20ARIA.png" alt="Arquitetura Técnica ARIA" width="800">
 </p>
 
 ---
 
-## 📺 Vídeo Demonstração
-Confira a ARIA em ação processando documentos e gerando insights:
+## 📺 Demonstração da Solução
+
+Veja como a ARIA simplifica a análise de documentos complexos:
 
 <video src="arquitetura_github.mp4" controls width="100%"></video>
 
 ---
 
-## 📊 Impacto e Métricas de Sucesso
-*   **Tempo de Análise:** Redução de dias/semanas para minutos/segundos.
-*   **Risco de Compliance:** Mínimo, com monitoramento 24/7.
-*   **Custo Operacional:** Baixo, com IA processando o volume braçal.
-*   **Acurácia de Dados:** Padronizada e baseada em evidência.
+## 📊 Métricas de Valor e Impacto
+
+*   **Agilidade:** Redução drástica no tempo de triagem (de semanas para segundos).
+*   **Conformidade:** Monitoramento ininterrupto (24/7), mitigando riscos regulatórios.
+*   **Eficiência:** Redução de custos operacionais ao automatizar tarefas repetitivas de alto volume.
+*   **Precisão:** Insights padronizados e totalmente rastreáveis.
 
 ---
 
-## 🧪 Validação e Prova de Conceito (PoC)
-O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
+## 🧪 Validação Técnica (PoC)
+
+Nossa Prova de Conceito foi testada com documentação real do setor, comprovando a eficácia na extração de insights estruturados a partir de textos densos e técnicos.
 
 ---
 
-## 💰 FinOps e Viabilidade Econômica
-O projeto foi submetido a uma estimativa rigorosa na **AWS Pricing Calculator**:
-*   **Custo Mensal Estimado:** $305,18.
-*   **Otimização de Custo:** O componente mais caro é o OpenSearch ($263,04). Para empresas menores, propomos o Roadmap de Redução substituindo-o por **RDS com pgvector**, reduzindo o custo mensal para aproximadamente **$57,00**.
-*   **Governança:** Configuração de **AWS Budgets** com alarmes em 60% do orçamento previsto.
+## 💰 FinOps e Sustentabilidade Financeira
+
+Planejamos a viabilidade do projeto com foco em governança de custos:
+*   **Investimento Mensal (PoC):** Estimado em $305,18 via AWS Pricing Calculator.
+*   **Estratégia de Escala:** Proposta de substituição do OpenSearch por **RDS com pgvector**, reduzindo o custo fixo para aproximadamente **$57,00/mês**.
+*   **Controle de Gastos:** Implementação de **AWS Budgets** com alertas preditivos em 60% do teto orçamentário.
 
 ---
 
-## 🌿 Sustentabilidade (ESG - Hacking for Good)
-A ARIA promove a Desmaterialização e a Eficiência Energética:
-*   **Redução de Resíduos:** Eliminação física de milhares de páginas de papel no fluxo regulatório.
-*   **Serverless First:** O uso de **AWS Lambda** garante que a computação ocorra apenas sob demanda, minimizando o desperdício energético em comparação com servidores legados ligados 24/7.
+## 🌿 Compromisso ESG (Hacking for Good)
+
+A ARIA contribui diretamente para metas de sustentabilidade:
+*   **Desmaterialização:** Digitalização completa do fluxo regulatório, poupando milhares de impressões.
+*   **Eficiência Energética:** Arquitetura **Serverless First** (AWS Lambda), garantindo consumo de recursos apenas durante o processamento ativo.
 
 ---
 
-## 🆙 Próximos Passos e Melhorias Futuras (Roadmap)
-*   **Semana 1:** Segurança e Gestão de identidade - Implementação do **Amazon Cognito**.
-*   **Semana 2:** FinOps e Prevenção de Custos – **Cache Semântico** (DynamoDB).
-*   **Avaliação contínua:** Avaliação de Qualidade da IA - Comparar a taxa de precisão x custo por token gerado.
+## 🆙 Evolução e Roadmap
+
+*   **Fase 1:** Reforço de Segurança e Identidade com **Amazon Cognito**.
+*   **Fase 2:** Otimização de Performance e Custo via **Cache Semântico** (DynamoDB).
+*   **Melhoria Contínua:** Benchmarking de precisão vs. custo por token para refinamento do modelo.
 
 ---
 
-## 📄 Documentação Adicional
-👉 [**Baixar Apresentação dos Slides (PDF)**](./docs/Apresentação%20Hackathon%202026.pdf)
+## 📄 Documentação Técnica
+👉 [**Acessar Apresentação Completa (PDF)**](./docs/Apresentação%20Hackathon%202026.pdf)
 
 ---
 
-## 🤝 Projeto vencedor do segundo lugar desenvolvido por:
+## 🤝 Time de Desenvolvimento (Grupo 4)
+
 <p align="center">
-  <img src="./assets/foto_equipe.jpg" alt="Equipe ARIA" width="600">
+  <img src="./assets/foto_equipe.jpg" alt="Equipe Vencedora ARIA" width="600">
 </p>
 
 *   **Fernanda Ferreira de Oliveira**
@@ -105,7 +113,8 @@ A ARIA promove a Desmaterialização e a Eficiência Energética:
 ---
 
 ## 🏢 Realização e Apoio
-Este projeto foi fruto do **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
-**Parceiros:**
+Projeto desenvolvido para o **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
+
+**Parceiros Estratégicos:**
 Escola da Nuvem, AWS, TD SYNNEX, Dedalus, BRLink, Enkel, Darede.
