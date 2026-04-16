@@ -141,7 +141,7 @@ Projeto desenvolvido para o **Hackathon Talento Tech 3.0** Escola da nuvem
 
 apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
-**empresas que apoiam esse projeto:**
+**Empresas que apoiam esse projeto:**
 
 Escola da Nuvem
 
