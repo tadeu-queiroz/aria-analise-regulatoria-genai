@@ -6,7 +6,7 @@ Solução: "Extração de Conhecimento em Dados Complexos"
 🌟 Visão Geral do Projeto
 Visão Geral da Solução
 
-A ARIA, anteriormente conhecida como PharmaGen Insights, é uma plataforma de Inteligência Regulatória muito avançada. Ela ajuda a automatizar todo o processo de documentos técnicos. Isso inclui desde a leitura e interpretação dos documentos até o acompanhamento constante de regras e publicações científicas. Com isso, a ARIA transforma informações que antes estavam paradas em uma espécie de "cérebro" da empresa, que está sempre atualizado e pode ser consultado quando necessário.
+A ARIA, anteriormente conhecida como PharmaGen Insights, é uma plataforma de Inteligência Regulatória muito avançada. Ela ajuda a automatizar todo o processo de documentos técnicos. Isso inclui desde a leitura e interpretação dos documentos até o acompanhamento constante de regras e publicações científicas. Com isso, a ARIA transforma informações que antes estavam paradas em uma espécie de “cérebro” da empresa, que está sempre atualizado e pode ser consultado quando necessário.
 
 Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
@@ -40,13 +40,18 @@ Segurança e Governança: Criptografia via KMS, trilha de auditoria com CloudTra
 https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4
 
 🧪 Validação e Prova de Conceito (PoC)
-
-🧪 Validação e Prova de Conceito (PoC)
-
-![poc_validacao](https://raw.githubusercontent.com/tadeu-queiroz/aria-analise-regulatoria-genai/main/poc_validacao.pdf.jpeg)
-
-O sistema foi validado com documentos reais...
 O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
+
+## 🧪 Validação (PoC)
+
+![PoC Validação](./assets/slides/validadacao-poc.png)
+
+**Resultado da validação:**
+
+- ✔ Processamento de documentos reais  
+- ✔ Extração de insights estruturados  
+- ✔ Pipeline fim-a-fim funcionando  
+- ✔ Rastreabilidade via Step Functions  
 
 Controle da Infraestrutura e Validação Técnica
 
