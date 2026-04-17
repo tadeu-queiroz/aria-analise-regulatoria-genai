@@ -47,9 +47,8 @@ Desenhada sob os pilares do AWS Well-Architected Framework...
 
 ---
 
-## 📺 Vídeo de Demonstração
-O vídeo funcional da nossa solução pode ser assistido aqui:
-[Clique para assistir ao vídeo (Pasta Docs)](./docs/demo.webm)
+## 📺 Vídeo Demonstração
+[Ver vídeo](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4)
 
 ![Slide 06](./assets/slides/slide-06.png)
 
@@ -119,5 +118,4 @@ Projeto desenvolvido para o Hackathon Talento Tech 3.0 Escola da Nuvem...
 Empresas que apoiam esse projeto: Escola da Nuvem, AWS, TD SYNNEX, Dedalus, BRLink, Enkel, Darede, DreamSquad
 
 ![Slide 14](./assets/slides/slide-14.png)
-
 
