@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Visão Geral da Solução
-![Visão Geral da ARIA](slide-03.png)
+[![Visão Geral da ARIA](slide-03.png)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/slides/slide-03.png)
 
 A **ARIA** é uma plataforma de Inteligência Regulatória baseada em IA Generativa que automatiza a ingestão, interpretação e monitoramento contínuo de documentos científicos e normas técnicas.
 
