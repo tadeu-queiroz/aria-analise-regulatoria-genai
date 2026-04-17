@@ -6,7 +6,7 @@
 
 ## 🌟 Visão Geral da Solução
 
-![Visão Geral da ARIA](./assets/visao_geral.png)
+![Visão Geral da ARIA](./slide-03.png)
 
 A **ARIA** é uma plataforma de Inteligência Regulatória baseada em IA Generativa que automatiza a ingestão, interpretação e monitoramento contínuo de documentos científicos e normas técnicas. Transformamos bases de dados estáticas em um **"cérebro corporativo"** vivo, consultável em linguagem natural e baseado em evidências.
 
@@ -17,7 +17,7 @@ A **ARIA** é uma plataforma de Inteligência Regulatória baseada em IA Generat
 
 ## 👤 O Desafio do Setor (Persona)
 
-![Cenário: Endereçamento X Problema](./assets/desafio_setor.png)
+![Cenário: Endereçamento X Problema](./slide-02.png)
 
 > *"Hoje, a indústria farmacêutica precisa de automação na gestão de informações técnicas quando o alto volume de documentos complexos gera riscos de inconformidade e lentidão na tomada de decisão."*
 
@@ -27,30 +27,20 @@ A **ARIA** é uma plataforma de Inteligência Regulatória baseada em IA Generat
 
 ---
 
-## 🚀 Diferenciais da Solução
-1.  **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas com citação de fonte (página/parágrafo).
-2.  **Ingestão Proativa:** Monitoramento autônomo via **Amazon EventBridge** em órgãos reguladores.
-3.  **Extração Especializada:** Integração com **Comprehend Medical** para identificar dosagens e relações clínicas complexas.
-
----
-
 ## 🏗️ Arquitetura da Solução (AWS Cloud Native)
 
-![Diagrama de Arquitetura ARIA](./assets/arquitetura_solucao.png)
+![Diagrama de Arquitetura ARIA](./Arquitetura%20-%20ARIA.png)
 
-Uma arquitetura **100% serverless** dividida em quatro zonas funcionais (Borda, Roteamento, Ingestão e Inteligência):
+Uma arquitetura **100% serverless** desenhada sob o *AWS Well-Architected Framework*:
 *   **Segurança:** Proteção de borda com **AWS WAF** e CloudFront.
 *   **Orquestração:** Fluxos gerenciados pelo **AWS Step Functions** com tratamento de erros via **Amazon SQS**.
 *   **Cérebro de IA:** **Amazon Bedrock (Claude 3 Haiku)** integrado ao **OpenSearch Serverless** para busca vetorial.
-
-### 📺 Vídeo Demonstração
-[Assista ao vídeo da arquitetura e fluxo de dados](./arquitetura_github.mp4)
 
 ---
 
 ## 🧪 Validação e Prova de Conceito (PoC)
 
-![Testes ARIA](./assets/poc_validacao.png)
+![Testes ARIA](./slide-13.png)
 
 O sistema foi validado com documentos reais, demonstrando a capacidade de extrair "insights" de textos densos e gerar respostas estruturadas.
 *   **Checklist:** Processamento real, extração estruturada e rastreabilidade total via Step Functions.
@@ -59,7 +49,7 @@ O sistema foi validado com documentos reais, demonstrando a capacidade de extrai
 
 ## 📊 Impacto e Métricas de Sucesso
 
-![Métricas de Sucesso](./assets/metricas_sucesso.png)
+![Métricas de Sucesso](./slide-04.png)
 
 
 | Métrica | Cenário Tradicional | Com ARIA |
@@ -72,7 +62,7 @@ O sistema foi validado com documentos reais, demonstrando a capacidade de extrai
 
 ## 🌿 Sustentabilidade (ESG - Hacking for Good)
 
-![Impacto Ambiental](./assets/sustentabilidade.png)
+![Impacto Ambiental](./slide-04.png)
 
 *   **Desmaterialização:** Fluxo digital com Resíduo Zero (eliminação de papel).
 *   **Eficiência Energética:** Arquitetura **Serverless First** que minimiza o desperdício energético operando apenas sob demanda.
@@ -81,17 +71,17 @@ O sistema foi validado com documentos reais, demonstrando a capacidade de extrai
 
 ## 💰 FinOps e Roadmap Futuro
 
-![Roadmap e FinOps](./assets/roadmap_futuro.png)
+![Roadmap e FinOps](./slide-07.png)
 
-*   **Custo Atual (PoC):** ~$305,18/mês (Foco em OpenSearch).
+*   **Custo Atual (PoC):** ~$305,18/mês.
 *   **Estratégia de Escala:** Substituição pelo **RDS com pgvector**, reduzindo o custo fixo para aproximadamente **$15,00/mês**.
-*   **Próximos Passos:** Implementação de **Amazon Cognito** (Segurança) e **Cache Semântico** com DynamoDB.
+*   **Próximos Passos:** Implementação de **Amazon Cognito** (Segurança) e **Cache Semântico** (DynamoDB).
 
 ---
 
 ## 🤝 Time de Desenvolvimento (Grupo 4)
 
-![Equipe Vencedora ARIA](./assets/foto_time.jpg)
+![Equipe Vencedora ARIA](./foto_equipe.jpg)
 
 *   **Fernanda Ferreira de Oliveira**
 *   **Gustavo Dias Gomes**
@@ -102,8 +92,7 @@ O sistema foi validado com documentos reais, demonstrando a capacidade de extrai
 ---
 
 ## 🏢 Realização e Apoio
-Projeto desenvolvido para o **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro**.
+Este projeto foi desenvolvido para o **Hackathon Talento Tech 3.0**, apresentado no **SENAI Santo Amaro**.
 
 **Parceiros:**
 Escola da Nuvem | AWS | TD SYNNEX | Dedalus | BRLink | Enkel | Darede | DreamSquad
-
