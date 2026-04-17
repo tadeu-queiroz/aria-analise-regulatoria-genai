@@ -147,9 +147,11 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 | | |
 |---|---|
-| Fernanda Ferreira de Oliveira | Gustavo Dias Gomes |
-| Melina Nascimento França | Tadeu Silva de Queiroz |
-| Vinicio Rocha dos Reis | |
+| Vinicio Rocha dos Reis | Fernanda Ferreira de Oliveira | 
+| Tadeu Silva de Queiroz
+| Gustavo Dias Gomes
+| Melina Nascimento França
+
 
 ---
 
