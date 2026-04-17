@@ -13,7 +13,7 @@ Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026
 
 ---
 
-🌟 Visão Geral do Projeto
+## 🌟 Visão Geral do Projeto
 
 [![Visão Geral da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide2.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide2.png.jpg?raw=true)
 
@@ -37,7 +37,7 @@ Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve 
 
 ---
 
-🚀 Diferenciais Estratégicos e Técnicos
+## 🚀 Diferenciais Estratégicos e Técnicos
 
 - **RAG (Retrieval-Augmented Generation)** — respostas fundamentadas nos documentos carregados, com citação de fonte, página e parágrafo, essencial para auditorias.
 - **Ingestão Híbrida**
@@ -48,7 +48,7 @@ Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve 
 
 ---
 
-🏗️ Arquitetura Cloud Native (AWS)
+## 🏗️ Arquitetura Cloud Native (AWS)
 
 [![Arquitetura da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide4.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide4.png.jpg?raw=true)
 
@@ -67,13 +67,13 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 
 ---
 
-📺 Vídeo Demonstração
+## 📺 Vídeo Demonstração
 
 [![▶ Assistir Demonstração](https://img.shields.io/badge/▶_Assistir-Demonstração-red?style=for-the-badge)](docs/README.md)
 
 ---
 
-🧪 Validação e Prova de Conceito (PoC)
+## 🧪 Validação e Prova de Conceito (PoC)
 
 [![PoC Validação](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/poc_validacao.pdf.jpeg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/poc_validacao.pdf.jpeg?raw=true)
 
@@ -86,7 +86,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ---
 
-📱 Interface Web
+## 📱 Interface Web
 
 [![Interface Web](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide9.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide9.png.jpg?raw=true)
 
@@ -94,39 +94,18 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ---
 
-📊 Impacto e Métricas de Sucesso
+## 📊 Impacto e Métricas de Sucesso
 
-<p><strong>Impacto e Métricas de Sucesso</strong></p>
+| Dimensão | Impacto |
+|---|---|
+| 🟢 Agilidade | Redução do tempo de análise de semanas para segundos |
+| 🔵 Conformidade | Monitoramento 24/7, mitigando riscos de multas e sanções |
+| 🟢 Eficiência | Automatiza tarefas repetitivas, permitindo que o time foque em decisões estratégicas |
+| 🟡 Time-to-Market | Resposta acelerada a mudanças regulatórias e novos estudos |
 
-<table>
-  <thead>
-    <tr>
-      <th>Dimensão</th>
-      <th>Impacto</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🟢 Agilidade</td>
-      <td>Redução do tempo de análise de semanas para segundos</td>
-    </tr>
-    <tr>
-      <td>🔵 Conformidade</td>
-      <td>Monitoramento 24/7, mitigando riscos de multas e sanções</td>
-    </tr>
-    <tr>
-      <td>🟣 Eficiência</td>
-      <td>Automatiza tarefas repetitivas, permitindo que o time foque em decisões estratégicas</td>
-    </tr>
-    <tr>
-      <td>🟡 Time-to-Market</td>
-      <td>Resposta acelerada a mudanças regulatórias e novos estudos</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-
-💰 FinOps e Viabilidade Econômica
+## 💰 FinOps e Viabilidade Econômica
 
 [![FinOps](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide11.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide11.png.jpg?raw=true)
 
@@ -136,21 +115,21 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ---
 
-
-🌿 Compromisso ESG (Hacking for Good)
+## 🌿 Compromisso ESG (Hacking for Good)
 
 [![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
 
-
-```
-
 - **Desmaterialização** — digitalização completa do fluxo regulatório, eliminando milhares de páginas físicas
 - **Eficiência Energética (Serverless First)** — Lambda e serviços sob demanda garantem consumo apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono
-- **Otimização de Recursos** — arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ocios
-🌿 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework
+- **Otimização de Recursos** — arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ociosa
 
+```diff
++ 🌿 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework
+```
 
- 🆙 Roadmap
+---
+
+## 🆙 Roadmap
 
 - **Fase 1:** Reforço de Segurança e Identidade com Amazon Cognito
 - **Fase 2:** Otimização de Performance via Cache Semântico (DynamoDB)
@@ -158,34 +137,34 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ---
 
-📄 Documentação Técnica
+## 📄 Documentação Técnica
 
 👉 [Acessar Apresentação Completa (PDF)](docs/)
 
 ---
 
-🤝 Time de Desenvolvimento 
+## 🤝 Time de Desenvolvimento
 
 [![Equipe](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/assets/foto_equipe.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)
 
-| | |
-|---|---|
-| Vinicio Rocha dos Reis | Fernanda Ferreira de Oliveira | 
-| Tadeu Silva de Queiroz
-| Gustavo Dias Gomes
+| Nome |
+|---|
+| Vinicio Rocha dos Reis |
+| Tadeu Silva de Queiroz |
+| Gustavo Dias Gomesz |
 | Melina Nascimento França
+| Fernanda Ferreira de Oliveira
 
 
 ---
 
- 🏢 Realização e Apoio
+## 🏢 Realização e Apoio
 
 Projeto desenvolvido para o **Hackathon Talento Tech 3.0 · Escola da Nuvem**
 
 Apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
-Empresas apoiadoras: 
-Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
+Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
 
 ---
 
