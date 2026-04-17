@@ -17,7 +17,7 @@ Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026
 
 ## 🌟 Visão Geral do Projeto
 
-[![Visão Geral](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide.png.jpg?raw=true)
+[![Visão Geral da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide2.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide2.png.jpg?raw=true)
 
 A **ARIA** (anteriormente conhecida como *PharmaGen Insights*) é uma plataforma de Inteligência Regulatória avançada que automatiza todo o ciclo de vida de documentos técnicos — desde a leitura e interpretação até o acompanhamento contínuo de normas e publicações científicas. Com isso, transforma informações estáticas em um **"cérebro corporativo"** sempre atualizado e consultável.
 
@@ -115,6 +115,10 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 🌿 Compromisso ESG (Hacking for Good)
 
+[![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
+
+Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
+...
 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
 
 - **Desmaterialização** — digitalização completa do fluxo regulatório, eliminando milhares de páginas físicas
