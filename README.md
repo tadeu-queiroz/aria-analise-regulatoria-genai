@@ -96,13 +96,34 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 📊 Impacto e Métricas de Sucesso
 
-|Dimensão | Impacto |
-|---|---|
-| **Agilidade** | Redução do tempo de análise de semanas para segundos |
-| **Conformidade** | Monitoramento 24/7, mitigando riscos de multas e sanções |
-| **Eficiência** | IA absorve o volume operacional, liberando talentos para análise |
-| **Time-to-Market** | Resposta acelerada a mudanças regulatórias e novos estudos |
+<p><strong>Impacto e Métricas de Sucesso</strong></p>
 
+<table>
+  <thead>
+    <tr>
+      <th>Dimensão</th>
+      <th>Impacto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🟢 Agilidade</td>
+      <td>Redução do tempo de análise de semanas para segundos</td>
+    </tr>
+    <tr>
+      <td>🔵 Conformidade</td>
+      <td>Monitoramento 24/7, mitigando riscos de multas e sanções</td>
+    </tr>
+    <tr>
+      <td>🟣 Eficiência</td>
+      <td>IA absorve o volume operacional, liberando talentos para análise</td>
+    </tr>
+    <tr>
+      <td>🟡 Time-to-Market</td>
+      <td>Resposta acelerada a mudanças regulatórias e novos estudos</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 💰 FinOps e Viabilidade Econômica
