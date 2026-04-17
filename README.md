@@ -137,7 +137,7 @@ Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
 
 ## 🤝 Time de Desenvolvimento — Grupo 4
 
-[![Equipe](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide1.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide1.png.jpg?raw=true)
+[![Equipe](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)
 
 | | |
 |---|---|
@@ -153,9 +153,4 @@ Projeto desenvolvido para o **Hackathon Talento Tech 3.0 · Escola da Nuvem**, a
 
 Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
 
----
-
-<div align="center">
-
-Desenvolvido com ❤️ pelo Grupo 4 para o Hackathon Talento Tech 3.0 · Escola da Nuvem · 2026
 
