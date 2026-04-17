@@ -159,4 +159,6 @@ Projeto desenvolvido para o **Hackathon Talento Tech 3.0 · Escola da Nuvem**, a
 
 Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
 
+--- [![Obrigado](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide12.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide12.png.jpg?raw=true)
+
 
