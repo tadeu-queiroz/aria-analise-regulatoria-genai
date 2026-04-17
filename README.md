@@ -10,7 +10,7 @@ A **ARIA** é uma plataforma de Inteligência Regulatória com IA Generativa cri
 
 ## Slide 1 — Capa
 
-![Slide 1 - Capa](./Arquitetura%20-%20ARIA.png)
+assets/slides/slide-03.png
 
 Abertura institucional do projeto **ARIA**, com identificação do time, data e posicionamento da solução como uma proposta de **Análise Regulatória com Inteligência Artificial**.
 
