@@ -140,14 +140,15 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 [![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
 
-```diff
-+ 🌿 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework
+
 ```
 
 - **Desmaterialização** — digitalização completa do fluxo regulatório, eliminando milhares de páginas físicas
 - **Eficiência Energética (Serverless First)** — Lambda e serviços sob demanda garantem consumo apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono
-- **Otimização de Recursos** — arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ociosa
+- **Otimização de Recursos** — arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ocios
 
+  diff
++ 🌿 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework
 ---
 
 ## 🆙 Roadmap
