@@ -96,7 +96,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 📊 Impacto e Métricas de Sucesso
 
-| Dimensão | Impacto |
+|Dimensão | Impacto |
 |---|---|
 | **Agilidade** | Redução do tempo de análise de semanas para segundos |
 | **Conformidade** | Monitoramento 24/7, mitigando riscos de multas e sanções |
