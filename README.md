@@ -124,7 +124,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
     </tr>
   </tbody>
 </table>
----
+
 
 💰 FinOps e Viabilidade Econômica
 
