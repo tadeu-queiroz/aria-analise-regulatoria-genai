@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Visão Geral da Solução
-![Visão Geral](slide-03.png)
+slide-03.png
 
 A **ARIA** é uma plataforma de Inteligência Regulatória baseada em IA Generativa que automatiza a ingestão, interpretação e monitoramento contínuo de documentos científicos e normas técnicas.
 
