@@ -47,8 +47,9 @@ Desenhada sob os pilares do AWS Well-Architected Framework...
 
 ---
 
-## 📺 Vídeo Demonstração
-[🎥 Clique aqui para ver o vídeo de demonstração](./demo.webm)
+## 📺 Vídeo de Demonstração
+O vídeo funcional da nossa solução pode ser assistido aqui:
+[Clique para assistir ao vídeo (Pasta Docs)](./docs/demo.webm)
 
 ![Slide 06](./assets/slides/slide-06.png)
 
