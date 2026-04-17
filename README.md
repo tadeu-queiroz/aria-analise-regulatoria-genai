@@ -26,7 +26,7 @@ Este slide apresenta a dor central do setor farmacêutico: o alto volume de docu
 
 ## Slide 3 — Visão Geral da Solução
 
-![Slide 3 - Visão Geral](./assets/slides/slide-03-visao-geral.png)
+main/assets/slides/slide-03.png
 
 A ARIA é apresentada como um **cérebro corporativo consultável em linguagem natural**, capaz de transformar dados complexos em respostas úteis, contextualizadas e baseadas em evidências, utilizando **IA Generativa + RAG**.
 
