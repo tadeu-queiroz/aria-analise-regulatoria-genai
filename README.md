@@ -2,7 +2,7 @@
 
 **Extração de Conhecimento em Dados Complexos**
 
-🥈 **2º Lugar Geral 
+🥈 **2º Lugar Geral**
 
 Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026
 
@@ -10,8 +10,6 @@ Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-Claude_3_Haiku-7B2FBE?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-
-</div>
 
 ---
 
@@ -26,6 +24,8 @@ Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve 
 ---
 
 ## 👤 O Desafio do Setor
+
+[![Enriquecimento e Problema](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide1.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide1.png.jpg?raw=true)
 
 > *"A indústria farmacêutica trabalha com uma grande quantidade de documentos complexos. Sem automação, as decisões ficam mais lentas e há riscos de multas e sanções por erros na interpretação das normas."*
 
@@ -50,7 +50,7 @@ Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve 
 
 ## 🏗️ Arquitetura Cloud Native (AWS)
 
-[![Arquitetura da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide4.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide4.png.jpg?raw=true)
+[![Arquitetura da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide4.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide4.png.jpg?raw=true)
 
 Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integridade regulatória:
 
@@ -75,7 +75,7 @@ Desenhada sob os pilares do **AWS Well-Architected Framework**, garantindo integ
 
 ## 🧪 Validação e Prova de Conceito (PoC)
 
-[![PoC Validação](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/poc_validacao.pdf.jpeg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/poc_validacao.pdf.jpeg?raw=true)
+[![PoC Validação](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/poc_validacao.pdf.jpeg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/poc_validacao.pdf.jpeg?raw=true)
 
 O sistema foi validado com documentos reais, demonstrando capacidade de extrair insights de textos densos e gerar respostas estruturadas:
 
@@ -88,7 +88,9 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 📱 Interface Web
 
-[![Interface Web](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide9.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide9.png.jpg?raw=true)
+[![Interface Web](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide9.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide9.png.jpg?raw=true)
+
+[![Códigos Frontend](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide10.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide10.png.jpg?raw=true)
 
 ---
 
@@ -105,7 +107,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 💰 FinOps e Viabilidade Econômica
 
-[![FinOps](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide11.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide11.png.jpg?raw=true)
+[![FinOps](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide11.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide11.png.jpg?raw=true)
 
 - **Investimento Mensal (PoC):** estimado em **$305,18** via AWS Pricing Calculator
 - **Estratégia de Escala:** substituição do OpenSearch por RDS com pgvector reduz o custo fixo para ~**$57,00/mês**
@@ -117,8 +119,6 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 [![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
 
-Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
-...
 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
 
 - **Desmaterialização** — digitalização completa do fluxo regulatório, eliminando milhares de páginas físicas
@@ -143,7 +143,7 @@ Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework:
 
 ## 🤝 Time de Desenvolvimento — Grupo 4
 
-[![Equipe](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)
+[![Equipe](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/assets/foto_equipe.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/assets/foto_equipe.jpg?raw=true)
 
 | | |
 |---|---|
@@ -159,6 +159,8 @@ Projeto desenvolvido para o **Hackathon Talento Tech 3.0 · Escola da Nuvem**, a
 
 Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
 
---- [![Obrigado](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide12.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide12.png.jpg?raw=true)
+---
+
+[![Obrigado](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide12.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide12.png.jpg?raw=true)
 
 
