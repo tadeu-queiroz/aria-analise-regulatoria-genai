@@ -48,7 +48,7 @@ Desenhada sob os pilares do AWS Well-Architected Framework...
 ---
 
 ## 📺 Vídeo Demonstração
-[Ver vídeo](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4)
+[🎥 Clique aqui para ver o vídeo de demonstração](./demo.webm)
 
 ![Slide 06](./assets/slides/slide-06.png)
 
