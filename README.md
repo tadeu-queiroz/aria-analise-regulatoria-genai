@@ -116,7 +116,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
     </tr>
     <tr>
       <td>🟣 Eficiência</td>
-      <td>IA absorve o volume operacional, liberando talentos para análise</td>
+      <td>Automatiza tarefas repetitivas, permitindo que o time foque em decisões estratégicas</td>
     </tr>
     <tr>
       <td>🟡 Time-to-Market</td>
