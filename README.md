@@ -1,121 +1,83 @@
 # ARIA | Inteligência Regulatória com IA Generativa 🚀
-🥈 2º LUGAR GERAL no Hackathon Talento Tech 3.0 - Escola da Nuvem - Hacking for Good 2026.
+### 🥈 2º LUGAR GERAL no Hackathon Talento Tech 3.0 - Escola da Nuvem - Hacking for Good 2026
 
-Solução: "Extração de Conhecimento em Dados Complexos"
+**Solução:** "Extração de Conhecimento em Dados Complexos"
 
 ---
 
 ## 🌟 Visão Geral do Projeto
-Visão Geral da Solução
+A ARIA automatiza o ciclo de vida de documentos técnicos, transformando dados estáticos em um “cérebro” corporativo sempre atualizado. Solução vencedora que resolve o gargalo da leitura manual de milhares de normas e resoluções.
 
-A ARIA, anteriormente conhecida como PharmaGen Insights, é uma plataforma de Inteligência Regulatória muito avançada...
-
-![Slide 01](./assets/slides/slide-01.png)
+![Visão Geral da Solução](./ativos/slides/Página%203.jpeg)
 
 ---
 
 ## 👤 O Desafio do Setor (Persona)
-"A indústria farmacêutica trabalha com uma grande quantidade de documentos complexos..."
+*"A indústria farmacêutica trabalha com uma grande quantidade de documentos complexos. Sem automação, as decisões ficam mais lentas e há riscos de sanções."*
 
-![Slide 02](./assets/slides/slide-02.png)
+### 💡 Transformação na Prática
+* **Cenário Tradicional:** Analistas dedicam ~15h semanais à leitura manual.
+* **Cenário com ARIA:** O analista recebe um Relatório Estratégico com impactos diretos.
 
----
-
-## 💡 Transformação na Prática
-Endereçamento X Problema
-
-Cenário Tradicional: Analistas dedicam ~15h semanais...
-Cenário com ARIA: O sistema realiza a busca ativa...
-
-![Slide 03](./assets/slides/slide-03.png)
+![Endereçamento X Problema](./ativos/slides/Página%202.jpeg)
 
 ---
 
-## 🚀 Diferenciais Estratégicos e Técnicos
-A ARIA utiliza um pipeline inteligente que garante rastreabilidade total e escalabilidade...
-
-![Slide 04](./assets/slides/slide-04.png)
+## 🚀 Diferenciais Técnicos
+* **RAG (Retrieval-Augmented Generation):** Respostas fundamentadas com citação direta de fonte.
+* **Ingestão Híbrida:** Busca proativa via API/Crawler e upload manual.
+* **Extração Especializada:** Amazon Textract + Comprehend Medical.
 
 ---
 
 ## 🏗️ Arquitetura Cloud Native (AWS)
-Arquitetura da Solução
+Desenhada sob os pilares do **AWS Well-Architected Framework**.
 
-Desenhada sob os pilares do AWS Well-Architected Framework...
-
-![Slide 05](./assets/slides/slide-05.png)
+![Arquitetura da Solução](./ativos/slides/Página%205.jpeg)
 
 ---
 
 ## 📺 Vídeo Demonstração
-[Ver vídeo](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/arquitetura_github.mp4)
-
-![Slide 06](./assets/slides/slide-06.png)
+[🎥 Clique aqui para assistir ao vídeo da arquitetura](./ativos/slides/arquitetura_github.mp4)
 
 ---
 
 ## 🧪 Validação e Prova de Conceito (PoC)
-O sistema foi validado com documentos reais...
+O sistema foi validado com documentos reais, gerando respostas estruturadas e rastreáveis.
 
-![Slide 07](./assets/slides/slide-07.png)
+![PoC Validação](./ativos/slides/Página%2010.jpeg)
 
 ---
 
 ## 📊 Impacto e Métricas de Sucesso
-Principais Benefícios e Medidas de Sucesso
-
-Agilidade, Conformidade, Eficiência, Time-to-Market...
-
-![Slide 08](./assets/slides/slide-08.png)
+![Benefícios e Sucesso](./ativos/slides/Página%204.jpeg)
 
 ---
 
 ## 💰 FinOps e Viabilidade Econômica
-Investimento Mensal (PoC): Estimado em $305,18...
+* **Escalabilidade:** Troca estratégica do OpenSearch por RDS/pgvector para redução de custos.
+* **Governança:** Monitoramento via AWS Budgets (Alerta de 60%).
 
-![Slide 09](./assets/slides/slide-09.png)
+![Próximos Passos e FinOps](./ativos/slides/Página%2013.jpeg)
 
 ---
 
 ## 🌿 Compromisso ESG (Hacking for Good)
-Alinhada ao pilar de Sustentabilidade...
-
-![Slide 10](./assets/slides/slide-10.png)
+* **Desmaterialização:** Fluxo 100% digital (Resíduo Zero).
+* **Serverless First:** Redução da pegada de carbono usando recursos sob demanda.
 
 ---
 
 ## 🆙 Evolução e Roadmap
-Fase 1: Reforço de Segurança...
-Fase 2: Otimização de Performance...
-
-![Slide 11](./assets/slides/slide-11.png)
-
----
-
-## 📄 Documentação Técnica
-👉 Acessar Apresentação Completa (PDF)
-
-![Slide 12](./assets/slides/slide-12.png)
+![Roadmap](./ativos/slides/Página%2014.jpeg)
 
 ---
 
 ## 🤝 Time de Desenvolvimento (Grupo 4)
-Equipe Vencedora ARIA
+* Fernanda Ferreira de Oliveira | Gustavo Dias | Melina Nascimento França | Tadeu Silva de Queiroz | Vinicio Rocha dos Reis
 
-Fernanda Ferreira de Oliveira  
-Gustavo Dias Gomes  
-Melina Nascimento França  
-Tadeu Silva de Queiroz  
-Vinicio Rocha dos Reis  
-
-![Slide 13](./assets/slides/slide-13.png)
+![Equipe Vencedora](./ativos/slides/Página%201.jpeg)
 
 ---
-
-## 🏢 Realização e Apoio
-Projeto desenvolvido para o Hackathon Talento Tech 3.0 Escola da Nuvem...
-
-Empresas que apoiam esse projeto: Escola da Nuvem, AWS, TD SYNNEX, Dedalus, BRLink, Enkel, Darede, DreamSquad
-
-![Slide 14](./assets/slides/slide-14.png)
+*Projeto desenvolvido para o Hackathon Talento Tech 3.0 Escola da Nuvem.*
 
