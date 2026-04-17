@@ -160,11 +160,13 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 🏢 Realização e Apoio
 
-Projeto desenvolvido para o **Hackathon Talento Tech 3.0 · Escola da Nuvem**
+Projeto desenvolvido para o **Hackathon Talento Tech 3.0  ·  Escola da Nuvem**
 
 Apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
-Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
+Empresas apoiadoras:
+
+**Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad**
 
 ---
 
