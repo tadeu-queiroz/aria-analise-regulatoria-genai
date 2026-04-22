@@ -17,7 +17,7 @@ Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026
 
 [![Visão Geral da Solução](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide2.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide2.png.jpg?raw=true)
 
-A **ARIA** (anteriormente conhecida como *PharmaGen Insights*) é uma plataforma de Inteligência Regulatória avançada que automatiza todo o ciclo de vida de documentos técnicos — desde a leitura e interpretação até o acompanhamento contínuo de normas e publicações científicas. Com isso, transforma informações estáticas em um **"cérebro corporativo"** sempre atualizado e consultável.
+A **ARIA** (anteriormente conhecida como *PharmaGen Insights*) é uma plataforma de Inteligência Regulatória avançada que automatiza todo o ciclo de vida de documentos técnicos, desde a leitura e interpretação até o acompanhamento contínuo de normas e publicações científicas. Com isso, transforma informações estáticas em um **"cérebro corporativo"** sempre atualizado e consultável.
 
 Nascida no Hackathon Talento Tech 3.0 Escola da Nuvem 2026, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
 
