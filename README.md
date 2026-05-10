@@ -19,7 +19,8 @@ Hackathon Talento Tech 3.0 * Hacking for Good 2026 - Escola da Nuvem
 
 A **ARIA** (anteriormente conhecida como *PharmaGen Insights*) é uma plataforma de Inteligência Regulatória avançada que automatiza todo o ciclo de vida de documentos técnicos, desde a leitura e interpretação até o acompanhamento contínuo de normas e publicações científicas. Com isso, transforma informações estáticas em um **"cérebro corporativo"** sempre atualizado e consultável.
 
-Nascida no Hackathon Talento Tech 3.0 * Hacking for Good - Escola da Nuvem 2026, a solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
+Nascida no Hackathon Talento Tech 3.0 * Hacking for Good - Escola da Nuvem 2026. Desenvolvemos uma solução de Análise Regulatória com Inteligência Artificial Generativa na AWS. A solução resolve o gargalo da leitura manual de milhares de páginas de editais, ensaios clínicos e resoluções, eliminando altos custos operacionais e riscos críticos de não conformidade.
+A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional.
 
 ---
 
