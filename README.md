@@ -40,7 +40,8 @@ A plataforma automatiza a ingestão e o processamento de documentos regulatório
 
 ## 🚀 Diferenciais Estratégicos e Técnicos
 
-- **RAG (Retrieval-Augmented Generation)** — respostas fundamentadas nos documentos carregados, com citação de fonte, página e parágrafo, essencial para auditorias.
+- **RAG (Retrieval-Augmented Generation)**
+- respostas fundamentadas nos documentos carregados, com citação de fonte, página e parágrafo, essencial para auditorias.
 - **Ingestão Híbrida**
   - *Reativa (Manual):* upload de PDFs (estudos, dossiês) via portal.
   - *Proativa (Autônoma):* busca ativa via API/Crawler em órgãos reguladores com Amazon EventBridge.
