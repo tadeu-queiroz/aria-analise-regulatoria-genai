@@ -115,7 +115,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ---
 
-## 🌿 Compromisso ESG (Hacking for Good)
+## 🌿 Compromisso ESG 
 
 [![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
 
