@@ -1,6 +1,6 @@
 # ARIA — Inteligência Regulatória com IA Generativa 🚀
 
-**Extração de Conhecimento em Dados Complexos**
+**Solução Serverless na AWS para extração de conhecimento em dados complexos e conformidade farmacêutica.**
 
 🥈 **2º Lugar**
 
