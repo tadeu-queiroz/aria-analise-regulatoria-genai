@@ -7,7 +7,7 @@ A plataforma automatiza a ingestão e o processamento de documentos regulatório
 **Reduza a análise de documentos de semanas para segundos.**
 
 
-🥈 **2º Lugar** Hackathon Talento Tech 3.0 · Hacking for Good 2026 - Escola da Nuvem
+🥈 **2º Lugar** Hackathon Talento Tech 3.0 · Hacking for Good - Escola da Nuvem 2026 
 
 [![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-Claude_3_Haiku-7B2FBE?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
