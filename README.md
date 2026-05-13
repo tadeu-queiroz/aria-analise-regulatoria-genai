@@ -1,6 +1,6 @@
 # ARIA - Inteligência Regulatória com IA Generativa 🚀
 
-**Desenvolvemos uma plataforma de automação regulatória para extrair dados complexos e para conformidade farmacêutica, com Inteligência Artificial Generativa na AWS.
+**Desenvolvemos uma plataforma de automação regulatória para extrair dados complexos e para conformidade farmacêutica, com Inteligência Artificial Generativa na AWS.**
 
 Solução Serverless com Amazon S3, AWS Step Functions, Amazon Bedrock, Amazon OpenSearch Serverless, Amazon Textract, Comprehend Medical e Amazon EventBridge.
 A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional.
