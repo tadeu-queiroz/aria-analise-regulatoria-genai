@@ -170,7 +170,7 @@ Projeto desenvolvido para o **Hackathon Talento Tech 3.0  ·  Escola da Nuvem** 
 
 Apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
-Empresas apoiadoras: **Escola da Nuvem · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad · Escola da Nuvem**
+Empresas apoiadoras: ** · AWS · TD SYNNEX · Dedalus · BRLink · Enkel · Darede · DreamSquad · Escola da Nuvem**
 
 ---
 
