@@ -1,6 +1,7 @@
 # ARIA - Inteligência Regulatória com IA Generativa 🚀
 
-**Desenvolvemos uma plataforma de automação regulatória para extração de conhecimento de dados complexos e para conformidade farmacêutica, com Inteligência Artificial Generativa na AWS. Solução Serverless com Amazon Bedrock, RAG, Step Functions e Textract.  
+**Desenvolvemos uma plataforma de automação regulatória para extrair dados complexos e para conformidade farmacêutica, com Inteligência Artificial Generativa na AWS.
+Solução Serverless com Amazon Bedrock, RAG, Step Functions e Textract.  
 A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional.
 Reduza a análise de documentos de semanas para segundos.**
 
@@ -125,8 +126,8 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 [![Sustentabilidade ESG](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/raw/main/ativos/slides/Slide3.png.jpg)](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai/blob/main/ativos/slides/Slide3.png.jpg?raw=true)
 
 - **Desmaterialização** — digitalização completa do fluxo regulatório, eliminando milhares de páginas físicas
-- **Eficiência Energética (Serverless First)** — Lambda e serviços sob demanda garantem consumo apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono
-- **Otimização de Recursos** — arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ociosa
+- **Eficiência Energética (Serverless First) Lambda e serviços sob demanda garantem consumo apenas durante o processamento ativo, reduzindo drasticamente a pegada de carbono
+- **Otimização de Recursos** arquitetura desenhada para maximizar utilização de recursos compartilhados e eliminar infraestrutura ociosa
 
 ```diff
 + 🌿 Alinhada ao pilar de Sustentabilidade do AWS Well-Architected Framework
