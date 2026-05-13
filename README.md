@@ -166,7 +166,7 @@ O sistema foi validado com documentos reais, demonstrando capacidade de extrair 
 
 ## 🏢 Realização e Apoio
 
-Projeto desenvolvido para o **Hackathon Talento Tech 3.0  ·  Escola da Nuvem**2026
+Projeto desenvolvido para o **Hackathon Talento Tech 3.0  ·  Escola da Nuvem** 2026
 
 Apresentado no **SENAI Santo Amaro (Suíço-Brasileira)**.
 
